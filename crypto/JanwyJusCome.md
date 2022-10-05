@@ -8,4 +8,8 @@ using dcode to analyze it we see that its a base64 encoding
 
 ![jj2](../files/jj2.png)
 
+<<<<<<< HEAD:crypto/JanwyJusCome .md
 looking further at the decrypted base64 encoding we found out its a jwt (known as javascript web token)encypted text 
+=======
+looking further at the decrypted base64 encoding we found out its a jwt (known as javascript web token)encypted text
+>>>>>>> bf0a647192a03058b3561822363b6ff4acdd15fe:crypto/JanwyJusCome.md
