@@ -10,9 +10,8 @@ Aol ullk av ohcl hmmpupaf pz doha thrlz aol mshn av il hijjam{hMMpupaf_OHz_bz}
 ```
 The cipher text looks familia as [ROT](https://en.wikipedia.org/wiki/ROT13)
 
-using some python script to bruteforce it we have
-```
-ciphertext = "Aol ullk av ohcl hmmpupaf pz doha thrlz aol mshn av il hijjam{hMMpupaf_OHz_bz}"
+using some python [script](../files/balls_script.py) to bruteforce it we have
 
-plaintext = ''
+![scipt](../files/script_output.png)
 
+And boom !!! the flag is **abcctf{aFFinity_HAs_us}**

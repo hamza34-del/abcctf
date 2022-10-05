@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/python3 #as a man of culture (^_^)
+
 class Rot:
     """" A brute forcing script on
     rot cipher
@@ -32,7 +33,8 @@ class Rot:
                 break
             plaintext = ''
 
-ciphertext = "Aol ullk av ohcl hmmpupaf pz doha thrlz aol mshn av il hijjam{hMMpupaf_OHz_bz}"
 
-crack = Rot(30, ciphertext)
+ciphertext = "Aol ullk av ohcl hmmpupaf pz doha thrlz aol mshn av il hijjam{hMMpupaf_OHz_bz}"
+n = 30
+crack = Rot(n, ciphertext)
 crack.rotring()
