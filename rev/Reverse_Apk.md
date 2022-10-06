@@ -1,0 +1,1 @@
+![](https://giphy.com/gifs/death-note-kira-Hw0wIr1YL75VC)
