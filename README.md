@@ -10,3 +10,9 @@ writeup on the just concluded 2022 edition
  
 ## [rev](https://github.com/hamza34-del/abcctf/tree/main/rev)
 - ### [Reverse_Apk](https://github.com/hamza34-del/abcctf/blob/main/rev/Reverse_Apk.md)
+
+## [Web](https://github.com/hamza34-del/abcctf/tree/main/WEB)
+- ### [Hacker](https://medium.com/@bl4ck4non/abcctf-web-challenge-hacker-writeup-8f009e73d6a9)
+
+## [Linux]()
+- ### [Methon](https://medium.com/@bl4ck4non/abcctf-linux-challenge-method-writeup-532f09d0eb58)
